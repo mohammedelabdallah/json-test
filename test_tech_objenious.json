@@ -1,0 +1,434 @@
+{
+    "messages": [
+        {
+            "id": "uplink-2989-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:43:33Z",
+            "count": 2989,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:43:33Z",
+                    "data": {
+                        "SMSPC_Answer": "14031a0000000100000000000000000000000100000000000000010000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 49
+                    }
+                }
+            ],
+            "payload_encrypted": "eb1b22ea11986073a5a139a4be20b3be96173324374a8ad75ce2399247aae006d8563ead0d",
+            "payload_cleartext": "310a80070001411d14031a0000000100000000000000000000000100000000000000010000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M11955",
+                "gateways": 1,
+                "noise": -110.18978441048,
+                "signal": -123.68978441048,
+                "rssi": -110,
+                "snr": -13.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.801883058892,
+            "lng": 2.4735700877033,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2988-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:40:29Z",
+            "count": 2988,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:40:29Z",
+                    "data": {
+                        "SMSPC_Answer": "14030400000000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 81
+                    }
+                }
+            ],
+            "payload_encrypted": "f09f203ded4d8ac9f2d84552342e10",
+            "payload_cleartext": "510a80070001410714030400000000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M11800",
+                "gateways": 5,
+                "noise": -114.29706163635,
+                "signal": -125.79706163635,
+                "rssi": -114,
+                "snr": -11.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.814233987171,
+            "lng": 2.4957851917364,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2987-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:37:07Z",
+            "count": 2987,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:37:07Z",
+                    "data": {
+                        "SMSPC_Answer": "1403040000010a",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 17
+                    }
+                }
+            ],
+            "payload_encrypted": "dc04a2dfd3bc9cc2b237ba6c0ce80a",
+            "payload_cleartext": "110a8007000141071403040000010a",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M14163",
+                "gateways": 3,
+                "noise": -112.18978441048,
+                "signal": -125.68978441048,
+                "rssi": -112,
+                "snr": -13.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.797527292368,
+            "lng": 2.4745376937778,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2986-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:13:33Z",
+            "count": 2986,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:13:33Z",
+                    "data": {
+                        "SMSPC_Answer": "14031a0000000100000000000000000000000100000000000000010000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 49
+                    }
+                }
+            ],
+            "payload_encrypted": "612b71b634eecc259c89615262fe6dec8588e2e7a6c7e107eb67ae29d3571686bc8e421dce",
+            "payload_cleartext": "310a80070001411d14031a0000000100000000000000000000000100000000000000010000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M14163",
+                "gateways": 2,
+                "noise": -113.37077764451,
+                "signal": -123.87077764451,
+                "rssi": -113,
+                "snr": -10.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.811608177107,
+            "lng": 2.5079356117413,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2985-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:10:29Z",
+            "count": 2985,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:10:29Z",
+                    "data": {
+                        "SMSPC_Answer": "14030400000000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 81
+                    }
+                }
+            ],
+            "payload_encrypted": "c5bd88da05d9103b4a62e7f37d4222",
+            "payload_cleartext": "510a80070001410714030400000000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M14163",
+                "gateways": 1,
+                "noise": -114.23760197734,
+                "signal": -126.73760197734,
+                "rssi": -114,
+                "snr": -12.5,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.811966418399,
+            "lng": 2.5065500437372,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2984-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T11:07:07Z",
+            "count": 2984,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T11:07:07Z",
+                    "data": {
+                        "SMSPC_Answer": "1403040000010c",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 17
+                    }
+                }
+            ],
+            "payload_encrypted": "f19a18a9d2c19404381139af4f2b38",
+            "payload_cleartext": "110a8007000141071403040000010c",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M11800",
+                "gateways": 3,
+                "noise": -112.15142276599,
+                "signal": -126.65142276599,
+                "rssi": -112,
+                "snr": -14.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.791927433133,
+            "lng": 2.4508717451409,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2983-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T10:43:33Z",
+            "count": 2983,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T10:43:33Z",
+                    "data": {
+                        "SMSPC_Answer": "14031a0000000100000000000000000000000100000000000000010000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 49
+                    }
+                }
+            ],
+            "payload_encrypted": "dfe4f5ca11bd38e3ad5e2ef6608d76ceb3bb027c4300421c3f56559a95facaf22260450f04",
+            "payload_cleartext": "310a80070001411d14031a0000000100000000000000000000000100000000000000010000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M11800",
+                "gateways": 4,
+                "noise": -114.18978441048,
+                "signal": -127.68978441048,
+                "rssi": -114,
+                "snr": -13.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.791840566652,
+            "lng": 2.4566899821048,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2982-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T10:40:29Z",
+            "count": 2982,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T10:40:29Z",
+                    "data": {
+                        "SMSPC_Answer": "14030400000000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 81
+                    }
+                }
+            ],
+            "payload_encrypted": "fe2985edb627294296202425a1db75",
+            "payload_cleartext": "510a80070001410714030400000000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M14163",
+                "gateways": 4,
+                "noise": -112.29706163635,
+                "signal": -123.79706163635,
+                "rssi": -112,
+                "snr": -11.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.813210578858,
+            "lng": 2.5151468948301,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2981-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T10:37:07Z",
+            "count": 2981,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T10:37:07Z",
+                    "data": {
+                        "SMSPC_Answer": "1403040000010b",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 17
+                    }
+                }
+            ],
+            "payload_encrypted": "c7056c753d3562bc89e81c339add80",
+            "payload_cleartext": "110a8007000141071403040000010b",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M14163",
+                "gateways": 2,
+                "noise": -111.23760197734,
+                "signal": -123.73760197734,
+                "rssi": -111,
+                "snr": -12.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.798710306063,
+            "lng": 2.4778733051024,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        },
+        {
+            "id": "uplink-2980-110b",
+            "device": 88383142687146276,
+            "type": "uplink",
+            "timestamp": "2018-12-06T10:13:33Z",
+            "count": 2980,
+            "payload": [
+                {
+                    "timestamp": "2018-12-06T10:13:33Z",
+                    "data": {
+                        "SMSPC_Answer": "14031a0000000100000000000000000000000100000000000000010000",
+                        "attribute_id": 1,
+                        "attribute_type": 65,
+                        "cluster_id": 32775,
+                        "command_id": 10,
+                        "flag": 49
+                    }
+                }
+            ],
+            "payload_encrypted": "0a0a714eabd08e221052bdf4bed180dfbeb69344349b368d9666e87fcd8bd1e2c50ce27af6",
+            "payload_cleartext": "310a80070001411d14031a0000000100000000000000000000000100000000000000010000",
+            "protocol_data": {
+                "port": 125,
+                "appeui": "70b3d5e75f600000",
+                "deveui": "70b3d5e75e004f9f",
+                "best_gateway_id": "M11955",
+                "gateways": 4,
+                "noise": -106.15142276599,
+                "signal": -120.65142276599,
+                "rssi": -106,
+                "snr": -14.5,
+                "requested_nbrep": 1,
+                "appnonce": "fdc8ec",
+                "devaddr": "0f64e5b4",
+                "devnonce": "110b",
+                "netid": "000007",
+                "sf": 12
+            },
+            "lat": 48.790456576784,
+            "lng": 2.4546909232541,
+            "geolocation_type": "network",
+            "geolocation_precision": 1500
+        }
+    ],
+    "start_exclusive": "20181201_1544091213803000000_0"
+}
